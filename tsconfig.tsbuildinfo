@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/dashboard/QuickActions.tsx","./src/components/dashboard/RecentActivity.tsx","./src/components/dashboard/StatCard.tsx","./src/components/dashboard/StatsGrid.tsx","./src/components/layout/Header.tsx","./src/components/layout/Sidebar.tsx","./src/pages/Dashboard.tsx"],"errors":true,"version":"5.9.3"}
