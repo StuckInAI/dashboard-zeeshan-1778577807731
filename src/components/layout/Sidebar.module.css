@@ -27,7 +27,7 @@
   width: 2.5rem;
   height: 2.5rem;
   border-radius: var(--radius-lg);
-  background: linear-gradient(135deg, var(--color-primary), var(--color-info));
+  background: linear-gradient(135deg, var(--color-primary), #991b1b);
   color: white;
   flex-shrink: 0;
 }

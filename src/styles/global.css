@@ -46,17 +46,17 @@ h6 {
 /* Design Tokens */
 :root {
   /* Colors */
-  --color-primary: #3b82f6;
-  --color-primary-hover: #2563eb;
-  --color-primary-light: #dbeafe;
+  --color-primary: #dc2626;
+  --color-primary-hover: #b91c1c;
+  --color-primary-light: #fee2e2;
   --color-success: #10b981;
   --color-success-light: #d1fae5;
   --color-warning: #f59e0b;
   --color-warning-light: #fef3c7;
   --color-danger: #ef4444;
   --color-danger-light: #fee2e2;
-  --color-info: #8b5cf6;
-  --color-info-light: #ede9fe;
+  --color-info: #dc2626;
+  --color-info-light: #fee2e2;
   
   --color-text-primary: #111827;
   --color-text-secondary: #6b7280;
